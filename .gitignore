@@ -1,0 +1,19 @@
+# ROS 2 Build/Install
+build/
+install/
+log/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Media
+test_video.mp4
