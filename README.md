@@ -1,4 +1,4 @@
-# AI Monocular Depth to PointCloud: Final Polish
+# AI Monocular Depth to PointCloud
 
 We successfully transformed a basic ROS tutorial node into a highly advanced, AI-driven perception system.
 
